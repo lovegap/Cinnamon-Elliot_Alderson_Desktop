@@ -1,6 +1,6 @@
 # [Cinnamon] Elliot Alderson Desktop
 
-<img src="images/elliot.png" width=800 height=800>
+<img src="elliot.png" width=800 height=400>
 
 ## Downloads
 
